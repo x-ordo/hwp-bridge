@@ -17,7 +17,7 @@ path = "src/main.rs"
 [dependencies]
 anyhow = "1.0"
 async-trait = "0.1"
-base64 = "0.22"
+base64 = "0.23"
 hwp-core = { version = "0.1.0", path = "../hwp-core" }
 hwp-types = { version = "0.1.0", path = "../hwp-types" }
 mcp-sdk-rs = "0.3.4"
@@ -33,4 +33,4 @@ tokio-stream = "0.1"
 uuid = { version = "1", features = ["v4"] }
 
 [dev-dependencies]
-base64 = "0.22"
+base64 = "0.23"
