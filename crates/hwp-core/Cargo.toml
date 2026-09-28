@@ -5,7 +5,7 @@ edition = "2024"
 license = "LicenseRef-Proprietary"
 
 [dependencies]
-cfb = "0.12.1"
+cfb = "0.15.0"
 chrono = "0.4.42"
 encoding_rs = "0.8.35"
 flate2 = "1.1.5"
